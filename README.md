@@ -1,7 +1,11 @@
 ## Hi there , its Anushka👋
 
 # 💫 About Me:
-Hi, I'm Anushka. <br>I am an 18-year-old B.Tech 1st year student at CGC Jhanjeri,<br> pursuing Artificial Intelligence and Data Science. I am currently in a club that help fresher to know more about there respective field.<br> I am currently learning backend development through FreeCodeCamp and enjoy exploring technologies that help me improve my coding skills. <br>I’m passionate about building projects, learning new things, <br>and growing as a developer.<br> I look forward to contributing to open-source and collaborating on impactful work.<br>
+I am an 18-year-old first-year B.Tech student at CGC Jhanjeri, pursuing Artificial Intelligence and Data Science. 
+I am currently part of a club that helps freshers learn more about their respective fields.
+I am learning backend development through freeCodeCamp and enjoy exploring technologies that enhance my coding skills.
+I am passionate about building projects, learning new technologies, and growing as a developer.
+I look forward to contributing to open-source projects and collaborating on impactful work.
 
 
 ## 🌐 Socials:
